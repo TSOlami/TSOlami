@@ -1,9 +1,12 @@
-# Hi there! 👋
 ![Header](./main/assets/github-header-image.png)
 
 #### Welcome to my digital universe!
 
-I'm a 22-year-old final year Pure & Applied Mathematics student based in Lagos. As a passionate Software Engineer & Developer, my expertise spans across various realms of technology. From crafting seamless web experiences to diving into the intricate world of backend development, I find joy in creating and solving.
+I'm a 22-year-old final year Pure & Applied Mathematics student living in Lagos. Exciting news—I recently graduated from ALX Software Engineering! 🚀
+
+I'm all about building software that tackles real-world problems. Right now, I'm on the lookout for opportunities to collaborate with a talented bunch of developers to create some seriously cool stuff. Remote or on-site, I'm open to both!
+
+As a Software Engineer & Developer, I'm passionate about a wide range of tech things. Whether it's crafting smooth web experiences or diving deep into backend development, I find joy in creating and solving. Let's build amazing products together! 💻✨
 
 ## My Skills
 
@@ -38,10 +41,8 @@ I'm a 22-year-old final year Pure & Applied Mathematics student based in Lagos. 
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
 ![VSCode](https://img.shields.io/badge/-VSCode-000?&logo=Visual-Studio-Code&logoColor=007ACC)
-![Heroku](https://img.shields.io/badge/-Heroku-000?&logo=Heroku)
-![Netlify](https://img.shields.io/badge/-Netlify-000?&logo=Netlify)
-![Vercel](https://img.shields.io/badge/-Vercel-000?&logo=Vercel)
 ![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
+![Insomnia](https://img.shields.io/badge/-Insomnia-000?&logo=Insomnia)
 ![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma)
 
 ### Operating Systems
@@ -50,11 +51,10 @@ I'm a 22-year-old final year Pure & Applied Mathematics student based in Lagos. 
 
 ## 📫 How to reach me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn)](https://www.linkedin.com/in/olamide-oluwatobi-olami/)
-[![Twitter](https://img.shields.io/badge/-Twitter-000?&logo=Twitter)](https://twitter.com/TS_Olami)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?&logo=Instagram)](https://www.instagram.com/olamide_olami/)
-[![Facebook](https://img.shields.io/badge/-Facebook-000?&logo=Facebook)](https://www.facebook.com/olamide.oluwatobi.9/)
-[![Telegram](https://img.shields.io/badge/-Telegram-000?&logo=Telegram)](https://t.me/TS_Olami)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn)](https://www.linkedin.com/in/saheed-tijani-b9935625b/)
+[![Twitter](https://img.shields.io/badge/-Twitter-000?&logo=Twitter)](https://twitter.com/def_input_name)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?&logo=Instagram)](https://www.instagram.com/papionfiya)
+[![Facebook](https://img.shields.io/badge/-Facebook-000?&logo=Facebook)](https://web.facebook.com/profile.php?id=100059079370738)
 
 
 Feel free to explore my portfolio and projects. Don't hesitate to reach out—I'm just a click away. Thanks for dropping by! 🌟
