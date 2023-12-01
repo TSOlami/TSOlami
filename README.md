@@ -2,7 +2,8 @@
 
 ### I'm TJ.
 Welcome to my digital universe!
-[![TJ's Header](https://raw.githubusercontent.com/TSOlami/TSOlami/main/assets/github-header-image.png)](https://whosteejay.netlify.app/)
+
+![Header](./main/assets/github-header-image.png)
 
 ## 📖 About Me
 I'm a 22-year-old final year Pure & Applied Mathematics student based in Lagos. As a passionate Software Engineer & Developer, my expertise spans across various realms of technology. From crafting seamless web experiences to diving into the intricate world of backend development, I find joy in creating and solving.
