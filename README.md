@@ -25,6 +25,15 @@ I'm a 22-year-old final year Pure & Applied Mathematics student based in Lagos. 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
 
+### Cloud
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=FF9900)
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-000?&logo=Google-Cloud&logoColor=4285F4)
+![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-000?&logo=Microsoft-Azure&logoColor=0089D6)
+![Digital Ocean](https://img.shields.io/badge/-Digital%20Ocean-000?&logo=DigitalOcean&logoColor=0080FF)
+![Heroku](https://img.shields.io/badge/-Heroku-000?&logo=Heroku)
+![Linode](https://img.shields.io/badge/-Linode-000?&logo=Linode)
+![Netlify](https://img.shields.io/badge/-Netlify-000?&logo=Netlify)
+
 ### Tools
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
