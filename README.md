@@ -8,54 +8,71 @@ I'm all about building software that tackles real-world problems. Right now, I'm
 
 As a Software Engineer & Developer, I'm passionate about a wide range of tech things. Whether it's crafting smooth web experiences or diving deep into backend development, I find joy in creating and solving. Let's build amazing products together! 💻✨
 
+## 🌱 What I'm currently learning
+
+- [x] Artificial Intelligence
+- [x] Machine Learning
+
+
 ## My Skills
 
 ### Languages
-![Python](https://img.shields.io/badge/-Python-000?&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
+![Python](https://www.vectorlogo.zone/logos/python/python-icon.svg)
+![JavaScript](https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg)
+![TypeScript](https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg)
+![C](https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg)
 
-### Frameworks
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
-![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask)
-![Express.js](https://img.shields.io/badge/-Express.js-000?&logo=Express.js)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+### Frameworks & Libraries
+![React](https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg)
+![Flask](https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg)
+![Express.js](https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg)
+![Node.js](https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg)
+![Django](https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg)
+![Tailwind CSS](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg)
+![Jest](https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg)
+![Mocha](https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg)
+![Chai](https://www.vectorlogo.zone/logos/chaijs/chaijs-icon.svg)
 
 ### Databases
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
-![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
+![MongoDB](https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg)
+![PostgreSQL](https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg)
+![MySQL](https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg)
 
-### Cloud
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=FF9900)
-![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-000?&logo=Google-Cloud&logoColor=4285F4)
-![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-000?&logo=Microsoft-Azure&logoColor=0089D6)
-![Digital Ocean](https://img.shields.io/badge/-Digital%20Ocean-000?&logo=DigitalOcean&logoColor=0080FF)
-![Heroku](https://img.shields.io/badge/-Heroku-000?&logo=Heroku)
-![Linode](https://img.shields.io/badge/-Linode-000?&logo=Linode)
-![Netlify](https://img.shields.io/badge/-Netlify-000?&logo=Netlify)
+### Cloud Platforms
+![AWS](https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg)
+![Google Cloud](https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg)
+![Microsoft Azure](https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg)
+![Digital Ocean](https://www.vectorlogo.zone/logos/digitalocean/digitalocean-icon.svg)
+![Heroku](https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg)
+![Linode](https://www.vectorlogo.zone/logos/linode/linode-icon.svg)
 
-### Tools
-![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
-![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
-![VSCode](https://img.shields.io/badge/-VSCode-000?&logo=Visual-Studio-Code&logoColor=007ACC)
-![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
-![Insomnia](https://img.shields.io/badge/-Insomnia-000?&logo=Insomnia)
-![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma)
+![Netlify](https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg)
+![Vercel](https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg)
+
+### DevOps & Server Management
+![Docker](https://www.vectorlogo.zone/logos/docker/docker-icon.svg)
+![Nginx](https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg)
+![Apache](https://www.vectorlogo.zone/logos/apache/apache-icon.svg)
+
+
+### Tools & Software
+![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)
+![GitHub](https://www.vectorlogo.zone/logos/github/github-icon.svg)
+![VSCode](https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg)
+![Postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg)
+![Figma](https://www.vectorlogo.zone/logos/figma/figma-icon.svg)
 
 ### Operating Systems
-![Windows](https://img.shields.io/badge/-Windows-000?&logo=Windows)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Windows](https://www.vectorlogo.zone/logos/apple/apple-icon.svg)
+![Linux](https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg)
 
 ## 📫 How to reach me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn)](https://www.linkedin.com/in/saheed-tijani-b9935625b/)
-[![Twitter](https://img.shields.io/badge/-Twitter-000?&logo=Twitter)](https://twitter.com/def_input_name)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?&logo=Instagram)](https://www.instagram.com/papionfiya)
-[![Facebook](https://img.shields.io/badge/-Facebook-000?&logo=Facebook)](https://web.facebook.com/profile.php?id=100059079370738)
-
+[![What's app](https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg)](https://wa.me/2347061583271)
+[![LinkedIn](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg)](https://www.linkedin.com/in/saheed-tijani-b9935625b/)
+[![Twitter](https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg)](https://twitter.com/def_input_name)
+[![Instagram](https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg)](https://www.instagram.com/papionfiya)
+[![Facebook](https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg)](https://web.facebook.com/profile.php?id=100059079370738)
 
 Feel free to explore my portfolio and projects. Don't hesitate to reach out—I'm just a click away. Thanks for dropping by! 🌟
 
