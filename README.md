@@ -10,8 +10,8 @@ As a Software Engineer & Developer, I'm passionate about a wide range of tech th
 
 ## 🌱 What I'm currently learning
 
-- [x] Artificial Intelligence
-- [x] Machine Learning
+- [ ] Artificial Intelligence
+- [ ] Machine Learning
 
 
 ## My Skills
