@@ -21,12 +21,14 @@ As a Software Engineer & Developer, I'm passionate about a wide range of tech th
 ![JavaScript](https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg)
 ![TypeScript](https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg)
 ![C](https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg)
+![PHP](https://www.vectorlogo.zone/logos/php/php-icon.svg)
 
 ### Frameworks & Libraries
 ![React](https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg)
 ![Flask](https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg)
 ![Express.js](https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg)
 ![Node.js](https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg)
+![Laravel](https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg)
 ![Django](https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg)
 ![Tailwind CSS](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg)
 ![Jest](https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg)
