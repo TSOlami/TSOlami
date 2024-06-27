@@ -6,7 +6,7 @@ I'm a 23-year-old Software Engineer and Mathematician based in Lagos. 🚀
 
 I'm all about building software that tackles real-world problems. Right now, I'm on the lookout for opportunities to collaborate with a talented bunch of developers to create some seriously cool stuff. Remote or on-site, I'm open to both!
 
-As a Software Engineer & Developer, I'm passionate about a wide range of tech things. Whether it's crafting smooth web experiences or diving deep into backend development, I find joy in creating and solving. Let's build amazing products together! 💻✨
+As a Software Engineer & Developer, I'm passionate about a wide range of tech things, especially AI and ML stuffs. Whether it's crafting smooth web experiences or diving deep into backend development, I find joy in creating and solving. Let's build amazing products together! 💻✨
 
 ## 🌱 What I'm currently learning
 
