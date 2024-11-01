@@ -22,7 +22,7 @@ As a Software Engineer & Developer, I'm passionate about a wide range of tech th
 ![TypeScript](https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg)
 ![C](https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg)
 ![PHP](https://www.vectorlogo.zone/logos/php/php-icon.svg)
-![Solidity](https://github.com/gilbarbara/logos/blob/main/logos/solidity.svg)
+![Solidity](https://www.vectorlogo.zone/logos/ethereum/ethereum-icon.svg)
 
 ### Frameworks & Libraries
 ![React](https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg)
