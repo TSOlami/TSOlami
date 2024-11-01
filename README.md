@@ -35,6 +35,9 @@ As a Software Engineer & Developer, I'm passionate about a wide range of tech th
 ![Jest](https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg)
 ![Mocha](https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg)
 ![Chai](https://www.vectorlogo.zone/logos/chaijs/chaijs-icon.svg)
+![Truffle](https://www.vectorlogo.zone/logos/trufflesuite/trufflesuite-icon.svg)
+![Hardhat](https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png)
+
 
 ### Databases
 ![MongoDB](https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg)
