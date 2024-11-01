@@ -12,7 +12,7 @@ As a Software Engineer & Developer, I'm passionate about a wide range of tech th
 
 - [x] Artificial Intelligence
 - [x] Machine Learning
-
+- [x] Blockchain Development
 
 ## My Skills
 
@@ -22,6 +22,7 @@ As a Software Engineer & Developer, I'm passionate about a wide range of tech th
 ![TypeScript](https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg)
 ![C](https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg)
 ![PHP](https://www.vectorlogo.zone/logos/php/php-icon.svg)
+![Solidity](https://www.vectorlogo.zone/logos/soliditylang/soliditylang-icon.svg)
 
 ### Frameworks & Libraries
 ![React](https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg)
@@ -68,8 +69,11 @@ As a Software Engineer & Developer, I'm passionate about a wide range of tech th
 ![Windows](https://www.vectorlogo.zone/logos/apple/apple-icon.svg)
 ![Linux](https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg)
 
-## 📫 How to reach me
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TSOlami&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TSOlami&layout=compact&theme=radical)
 
+## 📫 How to reach me
 [![What's app](https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg)](https://wa.me/2347061583271)
 [![LinkedIn](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg)](https://www.linkedin.com/in/saheed-tijani-b9935625b/)
 [![Twitter](https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg)](https://twitter.com/def_input_name)
@@ -79,9 +83,7 @@ As a Software Engineer & Developer, I'm passionate about a wide range of tech th
 Feel free to explore my portfolio and projects. Don't hesitate to reach out—I'm just a click away. Thanks for dropping by! 🌟
 
 ---
-
 ## 🚀 Quick Links
-
 - [Portfolio Website](https://whosteejay.netlify.app/)
 - [NAMSSN Website](https://namssn-futminna.onrender.com/)
 - [TrackC](https://trackc-flask-app-wg3p.onrender.com/)
