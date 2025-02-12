@@ -73,6 +73,10 @@ As a Software Engineer & Developer, I'm passionate about a wide range of tech th
 ![Linux](https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg)
 
 ## 📈 GitHub Stats
+<div align="center"> 
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/XiaomingX/count.svg" alt="Visitor's Count" />
+</div>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TSOlami&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TSOlami&layout=compact&theme=radical)
 
