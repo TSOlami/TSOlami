@@ -82,7 +82,7 @@ As a Software Engineer & Developer, I'm passionate about a wide range of tech th
 
 ## 📫 How to reach me
 [![What's app](https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg)](https://wa.me/2347061583271)
-[![LinkedIn](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg)](https://www.linkedin.com/in/saheed-tijani-b9935625b/)
+[![LinkedIn](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg)](https://www.linkedin.com/in/sotijani/)
 [![Twitter](https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg)](https://twitter.com/def_input_name)
 [![Instagram](https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg)](https://www.instagram.com/papionfiya)
 [![Facebook](https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg)](https://web.facebook.com/profile.php?id=100059079370738)
