@@ -2,7 +2,7 @@
 
 #### Welcome to my digital universe!
 
-I'm a 24-year-old Software Engineer and Mathematician based in Lagos. 🚀
+I'm a 25-year-old Software Engineer and Mathematician based in Lagos. 🚀
 
 I'm all about building software that tackles real-world problems. Right now, I'm on the lookout for opportunities to collaborate with a talented bunch of developers to create some seriously cool stuff. Remote or on-site, I'm open to both!
 
